@@ -15,7 +15,6 @@ class Projects:
         project_dmo = project_demo()
         project_dmo.face_mask_detection_project()
 
-        
 
 
         
@@ -26,5 +25,5 @@ class project_demo:
     def face_mask_detection_project(self):
         with st.container():
             st.header('  1️⃣. Face Mask detection Project 😷')
-            st.video('Face_mask_detection.mp4')
+            st.video('data\Face_mask_detection.mp4')
             st.markdown('Project Link : https://github.com/GyanPrakashkushwaha/FaceMaskDetection')
