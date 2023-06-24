@@ -19,13 +19,13 @@ class Contact:
         st.markdown('## [GitHub account:](https://github.com/GyanPrakashkushwaha)')
 
         
-        st.image('github.png')
+        st.image('data\github.png')
 
 
         st.markdown('---')
-        st.markdown('## [Linkedin account:](https://github.com/GyanPrakashkushwaha)')
+        st.markdown('## [Linkedin account:](https://www.linkedin.com/in/gyan-prakash-kushwaha-412838263/)')
         
-        st.image('linkedin.png')
+        st.image('data\linkedin.png')
 
 
 
