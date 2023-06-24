@@ -23,4 +23,4 @@ class AboutMe:
             st.markdown('---')
 
             st.header('Video Resume')
-            st.video(data='Face_mask_detection.mp4')
+            st.video(data=r'data\Face_mask_detection.mp4')

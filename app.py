@@ -1,9 +1,9 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-from remove_ import remove
-from About_me import AboutMe
-from Projects import Projects
-from contact import Contact
+from src.remove_ import remove
+from src.About_me import AboutMe
+from src.Projects import Projects
+from src.contact import Contact
 
 st.set_page_config(page_title="Gyan Prakash Kushwaha", page_icon=":🥸:", layout="wide", initial_sidebar_state="expanded")
 
