@@ -13,7 +13,7 @@ remove()
 with st.sidebar:
     selected = option_menu(
         menu_title=None,
-        options=['About me', 'Projects', 'Achievements', 'Contact'],
+        options=['About me', 'Projects', 'Skills', 'Contact'],
         icons=['GlyphCraft', 'IconCraft', '😊', '😎'],
         menu_icon='cast',
         default_index=0
