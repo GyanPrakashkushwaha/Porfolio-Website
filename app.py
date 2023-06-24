@@ -31,14 +31,3 @@ elif selected == 'Contact':
     contact_ = Contact()
     contact_.contact()
 
-
-elif selected == 'Achievements':
-    st.markdown("""
-        <style>
-            .block-container {
-                padding-top: 1.6rem;
-                padding-bottom: 5rem;
-            }
-        </style>
-    """, unsafe_allow_html=True)
-    st.title("Achievements")
