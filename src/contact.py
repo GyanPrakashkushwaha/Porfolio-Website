@@ -1,5 +1,4 @@
 import streamlit as st
-from st_clickable_images import clickable_images
 
 class Contact:
     def __init__(self):
@@ -14,7 +13,6 @@ class Contact:
                 }
             </style>
         """, unsafe_allow_html=True)
-        st.title("Contact")
 
         st.markdown('## [GitHub account:](https://github.com/GyanPrakashkushwaha)')
 
