@@ -1,16 +1,16 @@
 
 import streamlit as st
 def remove():
-    # st.markdown(""" 
-    # <style>
+    st.markdown(""" 
+    <style>
 
-    # .css-erpbzb.edgvbvh3
-    # {
-    # visibility:hidden;
-    # }
+    .css-erpbzb.edgvbvh3
+    {
+    visibility:hidden;
+    }
 
-    # </style>
-    # """,unsafe_allow_html=True)
+    </style>
+    """,unsafe_allow_html=True)
 
     st.markdown(""" 
     <style>
