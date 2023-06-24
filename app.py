@@ -9,7 +9,6 @@ st.set_page_config(page_title="Gyan Prakash Kushwaha", page_icon=":🥸:", layou
 
 remove()
 
-
 with st.sidebar:
     selected = option_menu(
         menu_title=None,
